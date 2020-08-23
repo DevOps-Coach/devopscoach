@@ -1,14 +1,13 @@
 baseURL = "https://devopscoach.org/"
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh"
 title = "DevOps 教练实验室"
-theme = "hugo-theme-docdock"
-themesdir = "../.."
+theme = "docdock"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
@@ -31,7 +30,7 @@ enableMissingTranslationPlaceholders = false
 editURL = "https://github.com/DevOps-Coach/devopscoach/content/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
-themeVariant = "gold" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false

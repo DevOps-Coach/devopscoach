@@ -1,0 +1,68 @@
+baseURL = "https://devopscoach.org/"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "DevOps 教练实验室"
+theme = "hugo-theme-docdock"
+themesdir = "../.."
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+
+
+[params]
+editURL = "https://github.com/DevOps-Coach/devopscoach/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "gold" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-home'></i> <label>首页</label>"
+url = "/"
+weight = 8
+
+[[menu.shortcuts]]
+pre = "<h3>More</h3>"
+name = "<i class='fa fa-github'></i> <label>代码库</label>"
+identifier = "ds"
+url = "https://github.com/DevOps-Coach/devops-labs"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-cloud-download'></i> <label>教练的博客</label>"
+url = "https://martinliu.cn"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bookmark'></i> <label>教练的B站</label>"
+identifier = "hugodoc"
+url = "https://space.bilibili.com/477542716"
+weight = 20
+

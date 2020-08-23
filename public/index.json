@@ -1,0 +1,78 @@
+[
+{
+	"uri": "https://devopscoach.org/chef/",
+	"title": "Anasible 实验室",
+	"tags": [],
+	"description": "Anasible 实验室",
+	"content": "建设中 "
+},
+{
+	"uri": "https://devopscoach.org/ansible/",
+	"title": "Chef 实验室",
+	"tags": [],
+	"description": "Chef 实验室",
+	"content": "建设中 "
+},
+{
+	"uri": "https://devopscoach.org/elasticstack/",
+	"title": "Elastic Stack 实验室",
+	"tags": [],
+	"description": "Elastic Stack 实验室",
+	"content": "建设中 "
+},
+{
+	"uri": "https://devopscoach.org/gitlab/",
+	"title": "GitLab 实验室",
+	"tags": [],
+	"description": "GitLab 实验室",
+	"content": "建设中 "
+},
+{
+	"uri": "https://devopscoach.org/jenkins/",
+	"title": "Jenkins 实验室",
+	"tags": [],
+	"description": "Jenkins 实验室",
+	"content": "建设中 "
+},
+{
+	"uri": "https://devopscoach.org/vagrant/",
+	"title": "Vagrant 实验室",
+	"tags": [],
+	"description": "Vagrant 实验室",
+	"content": "建设中 "
+},
+{
+	"uri": "https://devopscoach.org/_footer/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "教练的微信公众号：MyDevOps\n"
+},
+{
+	"uri": "https://devopscoach.org/_header/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://devopscoach.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://devopscoach.org/",
+	"title": "DevOps教练实验室",
+	"tags": [],
+	"description": "",
+	"content": "DevOps 教练的实验室 中国 DevOps 社区活动推荐：流水线大赛正在火热报名中。\n请访问活动官网： https://pipeline.devopsmeetup.com\n报名请扫码下面的二维码\n 关注 DevOps 教练 刘老师的微信公众号\n"
+},
+{
+	"uri": "https://devopscoach.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

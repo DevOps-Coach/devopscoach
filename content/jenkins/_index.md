@@ -3,6 +3,7 @@ title = "Jenkins 实验室"
 description = "Jenkins 实验室"
 weight = 50
 alwaysopen = true
+hidden = true
 +++
 
 ## 建设中

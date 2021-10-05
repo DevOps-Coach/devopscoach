@@ -7,15 +7,21 @@ description = ""
 
 {{%panel%}}
 
-中国 DevOps 社区活动推荐：流水线大赛正在火热报名中。
+中国 DevOps 社区活动推荐：
 
-请访问活动官网： https://pipeline.devopsmeetup.com
+- 活动主题：2021中国DevOps社区峰会-深圳站
+- 活动时间：2021年12月4日（星期六） 
+- 活动形式：论坛&工作坊
+- 参会费用：¥199/人 
+- 报名注册：[https://www.hudongba.com/party/ufpe5.html](https://www.hudongba.com/party/ufpe5.html)
+- 票务信息：
+  * 限时特价99元 原价199
+  * 盲鸟票现已开售，仅限40张
+  * 票务咨询请微信联系：DevOps-SQ
 
-报名请扫码下面的二维码
 
 {{%/panel%}}
 
-![](/images/pipeline-qrcode.png)
 
 ## 关注 DevOps 教练
 

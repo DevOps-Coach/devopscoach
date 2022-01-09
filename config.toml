@@ -1,4 +1,4 @@
-baseURL = "https://www.devopscoach.org/"
+baseURL = "https://devopscoach.org/"
 
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh"
